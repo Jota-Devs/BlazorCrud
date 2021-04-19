@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Jgkc+ZPX6K9/NyUZ0zke80HIuh6r2V19KiH4xfS9CTYEQ4uLmepZHNHGOHFPEPzGjA0uti5kPRroTeXpr52Evg==",
+  "success": true,
+  "projectFilePath": "D:\\repos2\\BlazorCrud\\BlazorCrud\\BlazorCrud.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Juandi\\.nuget\\packages\\system.net.http.json\\5.0.0\\system.net.http.json.5.0.0.nupkg.sha512",
+    "C:\\Users\\Juandi\\.nuget\\packages\\system.text.json\\5.0.0\\system.text.json.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
